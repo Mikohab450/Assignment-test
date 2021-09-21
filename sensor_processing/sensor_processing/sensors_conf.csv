@@ -1,0 +1,5 @@
+Sensor model,Handlers,Outputs
+WS-0001,-,Console
+WS-0002,padToMultiple,Console
+WS-0003,"trim, padToMultiple",File
+WS-0004,"trim, padToMultiple, addTimestamp","File, Console"
